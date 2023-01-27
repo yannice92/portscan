@@ -1,0 +1,4 @@
+localhost 80
+localhost 443
+localhost 10001
+google.com 22
